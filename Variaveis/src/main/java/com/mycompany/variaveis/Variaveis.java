@@ -36,8 +36,8 @@ public class Variaveis {
         String nome = "Marya Klara";
         boolean solteira = false;
         // true - verdadeiro , false - falso
-         System.out.println( "olá"+nome)
-         System.out.printl( "voce tem "+" anos de idade")
+         System.out.println( "olá"+nome);
+         System.out.println( "voce tem "+" anos de idade");
     }// fim da main
 }
 // nenhum código pode ficar aqui fora
